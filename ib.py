@@ -348,8 +348,8 @@ if api_key:
     add_time_markers(ax5)
     mark_last_data_day(ax5, last_date) 
     # Legends
-    ax5.legend(loc='upper left')
-    ax5b.legend(loc='upper right')
+    #ax5.legend(loc='upper left')
+    #ax5b.legend(loc='upper right')
 
 # Highlight yellow and orange zones based on conditions
 for i in range(len(btc_data) - 1):
