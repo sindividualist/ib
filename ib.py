@@ -28,6 +28,10 @@ st.markdown(
         font-weight: bold;
         margin-bottom: 40px;
     }
+    body {
+        background: white !important;
+        color: black;
+    }
     </style>
     <div class="center-title">Indykator Bitkojniorza</div>
     """,
